@@ -38,7 +38,7 @@ I design and build web applications using React.js Express.js, Node.js, MongoDB 
                 </Button>
 
                 <a 
-                  href="/Onifade_Oluwasegun_Resume.pdf" 
+                  href="/Oluwasegun_Resume.pdf" 
                   download 
                   className="flex items-center gap-2" >
                   <Button variant="outline" 
